@@ -3,10 +3,10 @@
 ## I’m currently working on ...
 #### Solus Ms
 A gaming site, with every trick in the book, invisibility cloaking, tab cloaking etc. <br>
-But most of all, actual full games that aren't cheap ripoffs of the original game
+But most of all, actual full games that aren't cheap ripoffs of the original game<br><br>
 [![Launch](https://img.shields.io/badge/Launch-Solus%20MS%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Solus-MS/)
 #### Project Cardboard
-Technically speaking, a cardboard box is worth more than I am, at around 1.2 billion dollars though falling through that property would take 42 minutes...
+Technically speaking, a cardboard box is worth more than I am, at around 1.2 billion dollars though falling through that property would take 42 minutes...<br><br>
 [![Launch](https://img.shields.io/badge/Launch-Project%20Cardboard%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Project-Cardboard/)
 <br><br>
 ## Have a good day!
