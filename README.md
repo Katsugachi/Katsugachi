@@ -11,3 +11,4 @@ Technically speaking, a cardboard box is worth more than I am, and probably you 
 [![Launch](https://img.shields.io/badge/Launch-Project%20Cardboard%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Project-Cardboard/)
 <br><br>
 ## Have a good day!
+<img src="https://media.tenor.com/V0AR3WV6qgoAAAAM/bf.gif" height="50px"> <br>
