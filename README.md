@@ -1,4 +1,4 @@
-# Hi there! I'm Katsugachi, well my web name anyways.
+# Hi there! I'm Katsugachi, well my web name anyways. https://media.tenor.com/FPp-JZUdiFkAAAAM/calicobongocat-bongo-cat.gif
 **Mini Developer | Games & Projects | Questionable Repo Architecture**
 ## I’m currently working on ...
 #### Solus Ms
