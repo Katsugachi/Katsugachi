@@ -8,7 +8,7 @@ But most of all, actual full games that aren't cheap ripoffs of the original gam
 [![Launch](https://img.shields.io/badge/Launch-Solus%20MS%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Solus-MS/)
 #### Calculator 2
 The Grand Swiss Army Knife Of All Calculators. <br>
-This is a special site and if you hit the save offline button it will allow you to visit this site even when you have no internet <br>
+This is a special site and if you hit the save offline button it will allow you to visit this site even when you have no internet <br> <br>
 [![Launch](https://img.shields.io/badge/Launch-Calculator%202d%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Calculator-2/)
 <br><br>
 #### Project Cardboard
