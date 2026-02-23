@@ -9,7 +9,7 @@ But most of all, actual full games that aren't cheap ripoffs of the original gam
 #### Calculator 2
 The Grand Swiss Army Knife Of All Calculators. <br>
 This is a special site and if you hit the save offline button it will allow you to visit this site even when you have no internet <br> <br>
-[![Launch](https://img.shields.io/badge/Launch-Calculator%202d%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Calculator-2/)
+[![Launch](https://img.shields.io/badge/Launch-Calculator%202%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Calculator-2/)
 <br><br>
 #### Project Cardboard
 Technically speaking, a cardboard box is worth more than I am, and probably you are too, at around 1.2 billion dollars though falling through that property would take 42 minutes...don't trespass<br><br>
