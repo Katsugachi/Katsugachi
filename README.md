@@ -3,7 +3,7 @@
 **Mini Developer | Games & Projects | Questionable Repo Architecture**
 ## I’m currently working on ...
 #### Solus Ms
-A simple gaming site with full games and a steam-like UI<br>
+A simple gaming site with full games and a steam-like UI<br><br>
 [![Launch](https://img.shields.io/badge/Launch-Solus%20MS%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Solus-MS/)
 #### Calculator 2
 Calculator Swiss Army Knife <br>
