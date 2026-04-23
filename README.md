@@ -22,7 +22,7 @@ This is a special site and if you hit the save offline button it will allow you 
 <br><br>
 
 ### ConnectJS
-Connect 4 JS Engine <br>
+Connect 4 JS Engine <br><br>
 [https://github.com/Katsugachi/ConnectJS](https://github.com/Katsugachi/Connect4-JS)<br><br>
 [![Launch](https://img.shields.io/badge/Launch-Connect%20JS%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Connect4-JS/)
 <br><br>
