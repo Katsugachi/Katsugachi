@@ -27,6 +27,11 @@ Connect 4 JS Engine <br><br>
 [![Launch](https://img.shields.io/badge/Launch-Connect%20JS%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Connect4-JS/)
 <br><br>
 
+### Tempus Speed (WIP)
+Instant Temporary Communications App <br><br>
+[https://github.com/Katsugachi/TempusSpeed](https://github.com/Katsugachi/TempusSpeed)<br><br>
+[![Launch](https://img.shields.io/badge/Launch-Tempus%20Speed%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/TempusSpeed/)
+<br><br>
 also like 110+ more other repos 
 
 ## Have a good day!
