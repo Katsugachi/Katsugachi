@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/FPp-JZUdiFkAAAAM/calicobongocat-bongo-cat.gif" height="50px"> <br>
 **Mini Developer | Games & Projects |**
 ## I’m currently working on ...
-### Solus Ms
+### Solus Ms (Largest Project To Date)
 An original gaming site with full games and a steam-like UI<br><br>
 [https://github.com/Katsugachi/Solus-MS](https://github.com/Katsugachi/Solus-MS)<br><br>
 [![Launch](https://img.shields.io/badge/Launch-Solus%20MS%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Solus-MS/)
@@ -32,7 +32,7 @@ Connect 4 JS Engine <br><br>
 ### Tempus Speed (WIP)
 Instant Temporary Communications App <br><br>
 [https://github.com/Katsugachi/TempusSpeed](https://github.com/Katsugachi/TempusSpeed)<br><br>
-[![Launch](https://img.shields.io/badge/Launch-Tempus%20Speed%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/TempusSpeed/)
+[![Launch Tempus Speed](https://img.shields.io/badge/Launch-Tempus%20Speed-1a5fa8?style=for-the-badge&logo=googlechat&logoColor=white)](https://bit.ly/tempus-speed)
 <br><br>
 also like 110+ more other repos 
 
