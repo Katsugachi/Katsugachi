@@ -27,7 +27,7 @@ Connect 4 JS Engine <br><br>
 [![Launch](https://img.shields.io/badge/Launch-Connect%20JS%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Connect4-JS/)
 <br><br>
 
-also like 80+ more other repos 
+also like 110+ more other repos 
 
 ## Have a good day!
 <img src="https://media.tenor.com/V0AR3WV6qgoAAAAM/bf.gif" height="50px"> <br>
