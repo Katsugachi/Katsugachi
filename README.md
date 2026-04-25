@@ -10,6 +10,8 @@ An original gaming site with full games and a steam-like UI<br><br>
 An advanced offline music player with a clean UX and UI for easy importing and accessing to high quality music.<br><br>
 [https://github.com/Katsugachi/Spooftify-V4](https://github.com/Katsugachi/Spooftify-V4/tree/main)<br><br>
 [![Download](https://img.shields.io/badge/Spooftify%20v4.2.1%20%E2%86%92-orange?style=for-the-badge)](https://github.com/Katsugachi/Spooftify-V4/releases/download/Spooftify/Spooftify.V4.2.1.html)
+<br><br>
+[![Launch Spooftify v2.4.1 (Mobile)](https://img.shields.io/badge/Launch-Spooftify%20v2.4.1%20(Mobile)-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://katsugachi.github.io/Spooftify-V4/)
 ### ZenLit o2
 Second version of a javascript engine with **~3650** ELO <br><br>
 [https://github.com/Katsugachi/ZenLit-o2](https://github.com/Katsugachi/ZenLit-o2)<br><br>
