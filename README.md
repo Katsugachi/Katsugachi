@@ -31,7 +31,7 @@ Connect 4 JS Engine <br><br>
 
 ### Tempus Speed (WIP)
 Ultra Fast Simple Temporary Communications App<br>
-_Based On The Original Docsocrd (2025)_ <br><br>
+_Based On The Original Legacy Docscord (2025)_ <br><br>
 [https://github.com/Katsugachi/TempusSpeed](https://github.com/Katsugachi/TempusSpeed)<br><br>
 [![Launch Tempus Speed](https://img.shields.io/badge/Launch-Tempus%20Speed-1a5fa8?style=for-the-badge&logo=googlechat&logoColor=white)](https://bit.ly/tempus-speed)
 <br><br>
