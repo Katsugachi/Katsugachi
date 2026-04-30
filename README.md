@@ -23,7 +23,11 @@ This is a special site and if you hit the save offline button it will allow you 
 [https://github.com/Katsugachi/Calculator-2](https://github.com/Katsugachi/Calculator-2)<br><br>
 [![Launch](https://img.shields.io/badge/Launch-Calculator%202%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Calculator-2/)
 <br><br>
-
+### Scramjet
+Anticensorship tool, single file browser VPN<br><br>
+[https://github.com/Katsugachi/Scramjet-Web](https://github.com/Katsugachi/Scramjet-Web) <br><br>
+[![Launch](https://img.shields.io/badge/Launch-Scramjet%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Scramjet-Web/)<br><br>
+[![Download](https://img.shields.io/badge/Download%20Scramjet%20%E2%86%92-orange?style=for-the-badge)](https://github.com/Katsugachi/Scramjet-Web/releases/download/scramjet/Scramjet.html)
 ### ConnectJS
 Connect 4 JS Engine <br><br>
 [https://github.com/Katsugachi/ConnectJS](https://github.com/Katsugachi/Connect4-JS)<br><br>
