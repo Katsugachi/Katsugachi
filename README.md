@@ -1,6 +1,7 @@
 # Hi there! I'm Katsugachi <br>
 <img src="https://media.tenor.com/FPp-JZUdiFkAAAAM/calicobongocat-bongo-cat.gif" height="50px"> <br>
 **Mini Developer | Games & Projects |** <br><br>
+**All projects are made on chrome and may not work on other browsers** <br><br>
 [https://katsugachi.github.io/SolusGH/](https://katsugachi.github.io/SolusGH/)
 ## I’m currently working on ...
 ### Solus Ms (Largest Project To Date)
