@@ -25,7 +25,7 @@ This is a special site and if you hit the save offline button it will allow you 
 [![Launch](https://img.shields.io/badge/Launch-Calculator%202%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Calculator-2/)
 <br><br>
 ### Scramjet
-Anticensorship tool, single file browser VPN<br><br>
+Anticensorship internet tool<br><br>
 [https://github.com/Katsugachi/Scramjet-Web](https://github.com/Katsugachi/Scramjet-Web) <br><br>
 [![Launch](https://img.shields.io/badge/Launch-Scramjet%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Scramjet-Web/)<br><br>
 [![Download](https://img.shields.io/badge/Download%20Scramjet%20%E2%86%92-orange?style=for-the-badge)](https://github.com/Katsugachi/Scramjet-Web/releases/download/scramjet/Scramjet.html)
