@@ -51,6 +51,6 @@ _Based On The Original Legacy Docscord (2025)_ <br><br>
 <br><br>
 also like 110+ more other repos 
 <br><br>
-luminescence: [https://github.com/Katsugachi/Luminescence](https://github.com/Katsugachi/Luminescence)
+luminescence skill link: [https://github.com/Katsugachi/Luminescence](https://github.com/Katsugachi/Luminescence)
 ## Have a good day!
 <img src="https://media.tenor.com/V0AR3WV6qgoAAAAM/bf.gif" height="50px"> <br>
