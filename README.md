@@ -30,7 +30,7 @@ Highly efficient easy to use cramming tool<br><br>
 [https://github.com/Katsugachi/XiM-Cram-Material](https://github.com/Katsugachi/XiM-Cram-Material) <br><br>
 [![Download XiM Material](https://img.shields.io/badge/Download-XiM%20Material-0366d6?style=for-the-badge&logo=github)](https://github.com/Katsugachi/XiM-Cram-Material/releases/tag/Downloads)
 <br><br>
-[![Web Version](https://img.shields.io/badge/Web%20Version-Visit-7a3df0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://katsugachi.github.io/XiM-Cram-Material/)
+[![Web Version](https://img.shields.io/badge/Web%20Version-XiM%20Material-7a3df0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://katsugachi.github.io/XiM-Cram-Material/)
 
 ### Scramjet
 Anticensorship internet tool<br><br>
