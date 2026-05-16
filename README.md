@@ -25,6 +25,11 @@ This is a special site and if you hit the save offline button it will allow you 
 [https://github.com/Katsugachi/Calculator-2](https://github.com/Katsugachi/Calculator-2)<br><br>
 [![Launch](https://img.shields.io/badge/Launch-Calculator%202%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Calculator-2/)
 <br><br>
+### Accelerated Information Material
+Highly efficient easy to use cramming tool<br><br>
+[https://github.com/Katsugachi/XiM-Cram-Material](https://github.com/Katsugachi/XiM-Cram-Material) <br><br>
+[![Download XiM Material](https://img.shields.io/badge/Download-XiM%20Material-0366d6?style=for-the-badge&logo=github)](https://github.com/Katsugachi/XiM-Cram-Material/releases/tag/Downloads)
+
 ### Scramjet
 Anticensorship internet tool<br><br>
 [https://github.com/Katsugachi/Scramjet-Web](https://github.com/Katsugachi/Scramjet-Web) <br><br>
