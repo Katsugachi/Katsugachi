@@ -41,12 +41,12 @@ Anticensorship internet tool<br><br>
 
 ### Connect4 JS
 Javascript connect 4 engine. <br><br>
-[https://github.com/Katsugachi/Connect4-JS](https://github.com/Katsugachi/Connect4-JS)
+[https://github.com/Katsugachi/Connect4-JS](https://github.com/Katsugachi/Connect4-JS) <br><br>
 [![Launch](https://img.shields.io/badge/Launch-Connect4%20JS%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Connect4-JS/)
 ### Air Dollars
 Fictional betting currency. <br><br>
 [https://github.com/Katsugachi/AirDollars-TM](https://github.com/Katsugachi/AirDollars-TM)<br><br>
-[![Launch](https://img.shields.io/badge/Launch-Airt%20Dollars%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/AirDollars-TM/)
+[![Launch](https://img.shields.io/badge/Launch-Air%20Dollars%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/AirDollars-TM/)
 ### Tempus Speed (WIP)
 Ultra Fast Simple Temporary Communications App<br>
 _Based On The Original Legacy Docscord (2025)_ <br><br>
