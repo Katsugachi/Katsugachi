@@ -1,7 +1,7 @@
 # Hi there! I'm Katsugachi <br>
 <img src="https://media.tenor.com/FPp-JZUdiFkAAAAM/calicobongocat-bongo-cat.gif" height="50px"> <br>
 **Mini Developer | Games & Projects | Making Things People Actually Want To Use** <br><br>
-**All projects are made on chrome and may not work on other browsers** <br><br>
+_All projects are made on **Chrome** and may not work on other browsers_ <br><br>
 [https://katsugachi.github.io/SolusGH/](https://katsugachi.github.io/SolusGH/) <br><br>
 Gemini 3: [https://www.google.com/search?udm=50&aep=11](https://www.google.com/search?udm=50&aep=11)
 ## I’m currently working on ...
