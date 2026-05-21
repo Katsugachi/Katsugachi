@@ -20,7 +20,7 @@ An advanced offline music player with a clean UX and UI for easy importing and a
   <img src="pace.jpg" alt="Project Banner" width="30%">
 </div>
 <br>
-Local Lite Agent you can drop anywhere and get it working: formatting data, summarising tasks and you can ask it to do anything, understanding natural language. Pace is just 0.25GB in size and can run its tasks even on low end computers with just 500mb of RAM <br><br>
+Local Lite Agent you can drop anywhere and get it working: formatting data, summarising tasks and you can ask it to do anything, understanding natural language. Pace is just 750mb in size and can run its tasks even on low end computers with under 1GB of RAM <br><br>
 Access to Pace is limited as of right now, will be available and open source soon. <br><br>
 https://github.com/Katsugachi/Pace-1.0
 
