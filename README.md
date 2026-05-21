@@ -16,7 +16,7 @@ An advanced offline music player with a clean UX and UI for easy importing and a
 <br><br>
 [![Launch Spooftify v2.4.1 (Mobile)](https://img.shields.io/badge/Launch-Spooftify%20v2.4.1%20(Mobile)-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://katsugachi.github.io/Spooftify-V4/)
 <div align="left">
-  <img src="ZenLit-o2.png" alt="Project Banner" width="40%">
+  <img src="pace.jpg" alt="Project Banner" width="40%">
 </div>
 <br>
 Local Lite Agent you can drop anywhere and get it working, formatting data, summarising tasks and you can ask it to do anything, understanding natural language. Pace is just 0.25GB in size and can run its tasks even on low end computers with just 500mb of RAM <br><br>
