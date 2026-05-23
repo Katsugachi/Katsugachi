@@ -22,7 +22,8 @@ An advanced offline music player with a clean UX and UI for easy importing and a
 <br>
 Local Lite Agent you can drop anywhere and get it working: formatting data, summarising tasks and you can ask it to do anything, understanding natural language. Pace is just 750mb in size and can run its tasks even on low end computers with under 1GB of RAM <br><br>
 Details on how to install + Pace's Files and a more comprehensive description can be found here <br><br>
-https://github.com/Katsugachi/Pace-1.0
+https://github.com/Katsugachi/Pace-1.0 <br><br>
+Pace Lite: https://github.com/Katsugachi/Pace-Lite-1.0
 
 ### ZenLit o2
 Second version of a javascript engine with **~3650** ELO <br><br>
