@@ -25,7 +25,7 @@ Details on how to install + Pace's Files and a more comprehensive description ca
 Pace: https://github.com/Katsugachi/Pace-1.0 <br><br>
 Pace Lite: https://github.com/Katsugachi/Pace-Lite-1.0 <br>
 
-##### Pace vs Pace Lite
+#### Pace vs Pace Lite
 Pace Lite is significantly smarter and has internet access while still being a local model but does not have agentic capabilities (accessing files and controlling systems), it does not try to rewrite its own code and is the stable, recommended model. Pace (non lite) is highly unstable, a bit less intelligent to reduce containment breaks and possesses agentic capabilities.
 
 ### ZenLit o2
