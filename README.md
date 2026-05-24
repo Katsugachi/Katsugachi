@@ -26,7 +26,7 @@ Pace Agentic: https://github.com/Katsugachi/Pace-1.0 <br><br>
 Pace Lite: https://github.com/Katsugachi/Pace-Lite-1.0 <br>
 
 #### Pace Agentic vs Pace Lite
-Pace Lite is significantly smarter and has internet access while still being a local model but does not have agentic capabilities (accessing files and controlling systems), it does not try to rewrite its own code and is the stable, recommended model. <br>Pace Agentic is highly unstable, a bit less intelligent to reduce containment breaks and possesses agentic capabilities.
+Pace Lite is significantly smarter and has internet access while still being a local model but does not have agentic capabilities (accessing files and controlling systems), it does not try to rewrite its own code and is the stable, recommended model. <br><br>Pace Agentic is highly unstable and inprogress, a bit less intelligent to reduce containment breaks and possesses agentic capabilities. Recommended for experienced developers to experiment with.
 
 ### ZenLit o2
 Second version of a javascript engine with **~3650** ELO <br><br>
