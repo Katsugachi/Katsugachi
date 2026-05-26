@@ -41,7 +41,7 @@ This is a special site and if you hit the save offline button it will allow you 
 
 ### JRAHS Student ID
 Student ID barcode generator from ID <br>
-[https://github.com/Katsugachi/JRAHS-Student-ID](https://github.com/Katsugachi/JRAHS-Student-ID)
+[https://github.com/Katsugachi/JRAHS-Student-ID](https://github.com/Katsugachi/JRAHS-Student-ID)<br><br>
 [![Launch](https://img.shields.io/badge/Launch-JRAHS%20ID%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/JRAHS-Student-ID/)
 <br><br>
 ### Accelerated Information Material (XiM Materials)
