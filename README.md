@@ -22,9 +22,9 @@ An advanced offline music player with a clean UX and UI for easy importing and a
 <br>
 Local Lite Agent you can drop anywhere and get it working: formatting data, summarising tasks and you can ask it to do anything, understanding natural language. Pace is just 750mb in size and can run its tasks even on low end computers with under 1GB of RAM <br><br>
 Details on how to install + Pace's Files and a more comprehensive description can be found here <br><br>
-Pace Agentic: https://github.com/Katsugachi/Pace-1.0 <br><br>
-Pace Lite: https://github.com/Katsugachi/Pace-Lite-1.0 <br>
-Pace Architex: https://github.com/Katsugachi/Pace-1.0-Architex <br> 
+Pace Agentic (Broken): https://github.com/Katsugachi/Pace-1.0 <br><br>
+Pace Lite (General): https://github.com/Katsugachi/Pace-Lite-1.0 <br><br>
+Pace Architex (Advanced): https://github.com/Katsugachi/Pace-1.0-Architex <br> 
 
 #### Pace Agentic vs Pace Lite
 Pace Lite is significantly smarter and has internet access while still being a local model but does not have agentic capabilities (accessing files and controlling systems), it does not try to rewrite its own code and is the stable, recommended model. <br><br>Pace Agentic is highly unstable and inprogress, a bit less intelligent to reduce containment breaks and possesses agentic capabilities. Recommended for experienced developers to experiment with. <br><br> Both are the **same** size. <br><br>Architex specialises in coding but has the same general capabilities as Pace Lite.
