@@ -38,6 +38,11 @@ Calculator Swiss Army Knife <br>
 This is a special site and if you hit the save offline button it will allow you to visit this site even when you have no internet <br> <br>
 [https://github.com/Katsugachi/Calculator-2](https://github.com/Katsugachi/Calculator-2)<br><br>
 [![Launch](https://img.shields.io/badge/Launch-Calculator%202%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Calculator-2/)
+
+### JRAHS Student ID
+Student ID barcode generator from ID <br>
+[https://github.com/Katsugachi/JRAHS-Student-ID](https://github.com/Katsugachi/JRAHS-Student-ID)
+[![Launch](https://img.shields.io/badge/Launch-JRAHS%20ID%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/JRAHS-Student-ID/)
 <br><br>
 ### Accelerated Information Material (XiM Materials)
 Highly efficient easy to use cramming tool<br><br>
