@@ -49,7 +49,9 @@ Student ID barcode generator from ID <br>
 ### Carpe
 Open Source MiniKindle for the Web. Includes 5 free books to get started with. <br>
 [https://github.com/Katsugachi/Carpe](https://github.com/Katsugachi/Carpe)<br><br>
-[![Launch](https://img.shields.io/badge/Carpe%20Kindle%20%E2%86%92-edc953?style=for-the-badge)](https://katsugachi.github.io/Carpe/)
+[![Launch](https://img.shields.io/badge/Launch-Carpe%20WebKindle%20%E2%86%92-edc953?style=for-the-badge)](https://katsugachi.github.io/Carpe)
+
+
 <br><br>
 ### Accelerated Information Material (XiM Materials)
 Highly efficient easy to use cramming tool<br><br>
