@@ -24,7 +24,7 @@ Local Lite Agent you can drop anywhere and get it working: formatting data, summ
 Details on how to install + Pace's Files and a more comprehensive description can be found here <br><br>
 
 Pace Lite (General): https://github.com/Katsugachi/Pace-Lite-1.0 <br><br>
-Pace Architex (Advanced & Coding): https://github.com/Katsugachi/Pace-1.0-Architex <br> 
+Pace Architex (Advanced & Coding): https://github.com/Katsugachi/Pace-1.0-Architex <br> <br>
 Pace Mini (FAST & Easy): https://github.com/Katsugachi/Pace-Mini<br>
 
 #### Pace Lite vs Architex vs Mini
