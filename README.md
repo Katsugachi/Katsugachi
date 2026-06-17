@@ -25,9 +25,10 @@ Details on how to install + Pace's Files and a more comprehensive description ca
 
 Pace Lite (General): https://github.com/Katsugachi/Pace-Lite-1.0 <br><br>
 Pace Architex (Advanced & Coding): https://github.com/Katsugachi/Pace-1.0-Architex <br> 
+Pace Mini (FAST & Easy): https://github.com/Katsugachi/Pace-Mini<br>
 
-#### Pace Lite vs Architex
-Pace Lite is smart and has internet access while still being a local model, it does not try to rewrite its own code and is the stable, recommended model. Architex specialises in coding and has the same general capabilities as Pace Lite.
+#### Pace Lite vs Architex vs Mini
+Pace Lite is smart and has internet access while still being a local model, it does not try to rewrite its own code and is the stable, recommended model. Architex specialises in coding and has the same general capabilities as Pace Lite. Pace Mini is substantially dumber but writes almost instantly, is 4x smaller, has no GUI and is super easy to setup.
 
 ### ZenLit o2
 Second version of a javascript engine with **~3650** ELO <br><br>
@@ -43,6 +44,12 @@ This is a special site and if you hit the save offline button it will allow you 
 Student ID barcode generator from ID <br>
 [https://github.com/Katsugachi/JRAHS-Student-ID](https://github.com/Katsugachi/JRAHS-Student-ID)<br><br>
 [![Launch](https://img.shields.io/badge/Launch-JRAHS%20ID%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/JRAHS-Student-ID/)
+<br><br>
+
+### Carpe
+Open Source MiniKindle for the Web. Includes 5 free books to get started with. <br>
+[https://github.com/Katsugachi/Carpe](https://github.com/Katsugachi/Carpe)<br><br>
+[![Web MiniKindle](https://img.shields.io/badge/Carpe%20Kindle%20%E2%86%92-#edc953?style=for-the-badge)](https://katsugachi.github.io/Carpe/)
 <br><br>
 ### Accelerated Information Material (XiM Materials)
 Highly efficient easy to use cramming tool<br><br>
