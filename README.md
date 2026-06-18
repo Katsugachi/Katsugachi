@@ -1,7 +1,7 @@
 # Hi there! I'm Katsugachi <br>
 <img src="https://media.tenor.com/FPp-JZUdiFkAAAAM/calicobongocat-bongo-cat.gif" height="50px"> <br>
-**Mini Active Developer | Games & Projects | Making Things People Actually Want To Use** <br><br>
-_All projects are made on **Chrome** and may not work on other browsers_ <br><br>
+**Mini Active Developer | Games & Projects | Just an Average Anthropic User** <br><br>
+_All projects are made on **Chrome** and may not work on other browsers. _ <br><br>
 Site: [https://katsugachi.github.io](https://katsugachi.github.io) <br><br>
 Gemini 3.5: [https://www.google.com/search?udm=50&aep=11](https://www.google.com/search?udm=50&aep=11)
 ## I’m currently working on ...
