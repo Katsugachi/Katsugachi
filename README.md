@@ -69,6 +69,12 @@ Anticensorship internet tool<br><br>
 Javascript connect 4 engine. <br><br>
 [https://github.com/Katsugachi/Connect4-JS](https://github.com/Katsugachi/Connect4-JS) <br><br>
 [![Launch](https://img.shields.io/badge/Launch-Connect4%20JS%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Connect4-JS/)
+
+### BOTW ASCII 2D
+Legend Of Zelda: Breath Of The Wild Map recreated completely in ASCII <br><br>
+[https://github.com/Katsugachi/botw-ascii-2D](https://github.com/Katsugachi/botw-ascii-2D) <br><br>
+[![Launch](https://img.shields.io/badge/Launch-Hyrule%20Atlas%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/botw-ascii-2D/)
+
 ### Air Dollars
 Fictional betting currency. <br><br>
 [https://github.com/Katsugachi/AirDollars-TM](https://github.com/Katsugachi/AirDollars-TM)<br><br>
