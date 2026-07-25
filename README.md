@@ -4,7 +4,6 @@
 _All projects are made on **Chrome** and may not work on other browsers._ <br><br>
 Site: [https://katsugachi.github.io](https://katsugachi.github.io) <br><br>
 Gemini 3.5: [https://www.google.com/search?udm=50&aep=11](https://www.google.com/search?udm=50&aep=11)<br><br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Katsugachi&theme=shadow-orange&hide_border=true)](https://git.io/streak-stats)
 
 ## I’m currently working on ...
 ### Solus Ms (Largest Project To Date)
@@ -90,5 +89,6 @@ _Based On The Original Legacy Docscord (2025)_ <br><br>
 also like 110+ more other repos 
 <br><br>
 luminescence skill link: [https://github.com/Katsugachi/Luminescence](https://github.com/Katsugachi/Luminescence)
-## Have a good day!
-<img src="https://media.tenor.com/V0AR3WV6qgoAAAAM/bf.gif" height="50px"> <br>
+<br><br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Katsugachi&theme=shadow-orange&hide_border=true)](https://git.io/streak-stats)
+
