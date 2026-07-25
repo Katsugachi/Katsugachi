@@ -3,7 +3,9 @@
 **Mini Active Developer | Games & Projects | Just an Average Anthropic User** <br><br>
 _All projects are made on **Chrome** and may not work on other browsers._ <br><br>
 Site: [https://katsugachi.github.io](https://katsugachi.github.io) <br><br>
-Gemini 3.5: [https://www.google.com/search?udm=50&aep=11](https://www.google.com/search?udm=50&aep=11)
+Gemini 3.5: [https://www.google.com/search?udm=50&aep=11](https://www.google.com/search?udm=50&aep=11)<br><br>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Katsugachi&theme=catppuccin-frappe&hide_border=true&border_radius=10&card_width=435&card_height=175&background=302C33" alt="GitHub Streak" /></a>
+
 ## I’m currently working on ...
 ### Solus Ms (Largest Project To Date)
 An original gaming site with full games and a steam-like UI<br><br>
