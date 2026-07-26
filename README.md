@@ -1,9 +1,31 @@
-# Hi there! I'm Katsugachi <br>
-<img src="https://media.tenor.com/FPp-JZUdiFkAAAAM/calicobongocat-bongo-cat.gif" height="50px"> <br>
-**Mini Active Developer | Games & Projects | Just an Average Anthropic User** <br><br>
-_All projects are made on **Chrome** and may not work on other browsers._ <br><br>
-Site: [https://katsugachi.github.io](https://katsugachi.github.io) <br><br>
-Gemini 3.5: [https://www.google.com/search?udm=50&aep=11](https://www.google.com/search?udm=50&aep=11)<br><br>
+<p align="center">
+<img src="https://media.tenor.com/FPp-JZUdiFkAAAAM/calicobongocat-bongo-cat.gif" height="50px" alt="Bongo Cat" />
+</p>
+
+<h1 align="center">Hi there! I'm Katsugachi</h1>
+
+<p align="center">
+<b>Mini Active Developer | Games & Projects | Just an Average Anthropic User</b>
+</p>
+
+<p align="center">
+<i>All projects are made on <b>Chrome</b> and may not work on other browsers.</i>
+</p>
+
+<!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?lines=Mini%20Active%20Developer;Games%20%26%20Projects;Just%20an%20Average%20Anthropic%20User;110%2B%20repos%20and%20counting&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+</a>
+</p>
+
+<!-- Badges section -->
+<p align="center">
+<a href="https://katsugachi.github.io"><img alt="Site" title="My Website" src="https://custom-icon-badges.demolab.com/badge/Site-katsugachi.github.io-1F6FEB?style=for-the-badge&logo=link-external&logoColor=white" /></a>
+<a href="https://www.google.com/search?udm=50&aep=11"><img alt="Gemini 3.5" title="Gemini 3.5" src="https://img.shields.io/badge/Gemini%203.5-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://github.com/Katsugachi?tab=followers"><img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Katsugachi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
+<a href="https://github.com/Katsugachi?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Katsugachi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white" /></a>
+</p>
 
 ## I’m currently working on ...
 ### Solus Ms (Largest Project To Date)
