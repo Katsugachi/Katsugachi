@@ -15,7 +15,7 @@
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?lines=Mini%20Active%20Developer;Games%20%26%20Projects;Just%20an%20Average%20Anthropic%20User;110%2B%20repos%20and%20counting&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Mini%20Active%20Developer;Games%20%26%20Projects;Just%20an%20Average%20Anthropic%20User;150%2B%20repos%20and%20counting&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </a>
 </p>
 
@@ -26,6 +26,8 @@
 <a href="https://github.com/Katsugachi?tab=followers"><img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Katsugachi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
 <a href="https://github.com/Katsugachi?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Katsugachi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white" /></a>
 </p>
+<div align="center">
+
 
 ## I’m currently working on ...
 ### Solus Ms (Largest Project To Date)
@@ -39,7 +41,7 @@ An advanced offline music player with a clean UX and UI for easy importing and a
 <br><br>
 [![Launch Spooftify v2.4.1 (Mobile)](https://img.shields.io/badge/Launch-Spooftify%20v2.4.1%20(Mobile)-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://katsugachi.github.io/Spooftify-V4/)
 ### Pace
-<div align="left">
+<div align="center">
   <img src="pace.jpg" alt="Project Banner" width="30%">
 </div>
 <br>
@@ -108,14 +110,24 @@ Fictional betting currency. <br><br>
 [https://github.com/Katsugachi/AirDollars-TM](https://github.com/Katsugachi/AirDollars-TM)<br><br>
 [![Launch](https://img.shields.io/badge/Launch-Air%20Dollars%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/AirDollars-TM/)
 ### Tempus Speed (WIP)
-Ultra Fast Simple Temporary Communications App<br>
+Simple WebRTC Communications app<br>
 _Based On The Original Legacy Docscord (2025)_ <br><br>
 [https://github.com/Katsugachi/TempusSpeed](https://github.com/Katsugachi/TempusSpeed)<br><br>
 [![Launch Tempus Speed](https://img.shields.io/badge/Launch-Tempus%20Speed-1a5fa8?style=for-the-badge&logo=googlechat&logoColor=white)](https://bit.ly/tempus-speed)
+
+</div>
+
 <br><br>
-also like 110+ more other repos 
+<p align="center">
+also like 140+ more other repos 
 <br><br>
-luminescence skill link: [https://github.com/Katsugachi/Luminescence](https://github.com/Katsugachi/Luminescence)
+luminescence skill link: https://github.com/Katsugachi/Luminescence
 <br><br>
+</p>
+<div align="center">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=Katsugachi&theme=shadow-orange&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
 
