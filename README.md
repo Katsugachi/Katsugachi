@@ -98,6 +98,11 @@ Legend Of Zelda: Breath Of The Wild Map recreated completely in ASCII <br><br>
 [https://github.com/Katsugachi/botw-ascii-2D](https://github.com/Katsugachi/botw-ascii-2D) <br><br>
 [![Launch](https://img.shields.io/badge/Launch-Hyrule%20Atlas%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/botw-ascii-2D/)
 
+### QuickSentral
+Access sentral faster and search in a small window. To do list added. Better than sentral; shows correct timetable after 3:05<br><br>
+[https://github.com/Katsugachi/QuickSentral-1.3](https://github.com/Katsugachi/QuickSentral-1.3) <br><br>
+[![Download](https://img.shields.io/badge/Download%20QuickSentral-1.3t%20%E2%86%92-navy?style=for-the-badge)](https://github.com/Katsugachi/QuickSentral-1.3/releases/download/download/quicksentral.zip)
+
 ### Air Dollars
 Fictional betting currency. <br><br>
 [https://github.com/Katsugachi/AirDollars-TM](https://github.com/Katsugachi/AirDollars-TM)<br><br>
