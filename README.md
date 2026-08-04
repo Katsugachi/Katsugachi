@@ -11,7 +11,9 @@
 <p align="center">
 <i>All projects are made on <b>Chrome</b> and may not work on other browsers.</i>
 </p>
-
+<p align="center">
+<i>"Make it first. you can always make it better later"</i>
+</p>
 <!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
