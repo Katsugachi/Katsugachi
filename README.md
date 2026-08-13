@@ -24,7 +24,7 @@
 <!-- Badges section -->
 <p align="center">
 <a href="https://katsugachi.github.io"><img alt="Site" title="My Website" src="https://custom-icon-badges.demolab.com/badge/Site-katsugachi.github.io-1F6FEB?style=for-the-badge&logo=link-external&logoColor=white" /></a>
-<a href="https://www.google.com/search?udm=50&aep=11"><img alt="Gemini 3.5" title="Gemini 3.5" src="https://img.shields.io/badge/Gemini%203.5-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+<a href="https://www.google.com/search?udm=50&aep=11"><img alt="Gemini 3.5" title="Gemini 3.5" src="https://img.shields.io/badge/Gemini%203.6-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
 <a href="https://github.com/Katsugachi?tab=followers"><img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Katsugachi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" /></a>
 <a href="https://github.com/Katsugachi?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Katsugachi?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white" /></a>
 </p>
