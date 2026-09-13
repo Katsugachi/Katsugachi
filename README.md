@@ -37,7 +37,7 @@ An original gaming site with full games and a steam-like UI<br><br>
 [https://github.com/Katsugachi/Solus-MS](https://github.com/Katsugachi/Solus-MS)<br><br>
 [![Launch](https://img.shields.io/badge/Launch-Solus%20MS%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Solus-MS/)
 ### Contomo (IMO Best Project)
-A ranked and highly comprehensive but simple pomodoro timer. My Magnum Opus of Pomodoro Timers<br><br>
+A ranked and highly comprehensive but simple pomodoro timer.<br><br>
 https://github.com/Katsugachi/Contomo<br><br>
 [![Launch](https://img.shields.io/badge/Launch-Contomo%20%E2%86%92-green?style=for-the-badge)](https://katsugachi.github.io/Contomo/)
 ### Spooftify 
