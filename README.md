@@ -46,20 +46,6 @@ An advanced offline music player with a clean UX and UI for easy importing and a
 [![Download](https://img.shields.io/badge/Spooftify%20v4.2.1%20%E2%86%92-orange?style=for-the-badge)](https://github.com/Katsugachi/Spooftify-V4/releases/download/Spooftify/Spooftify.V4.2.1.html)
 <br><br>
 [![Launch Spooftify v2.4.1 (Mobile)](https://img.shields.io/badge/Launch-Spooftify%20v2.4.1%20(Mobile)-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://katsugachi.github.io/Spooftify-V4/)
-### Pace
-<div align="center">
-  <img src="pace.jpg" alt="Project Banner" width="30%">
-</div>
-<br>
-Local Lite Agent you can drop anywhere and get it working: formatting data, summarising tasks and you can ask it to do anything, understanding natural language. Pace is just 750mb in size and can run its tasks even on low end computers with under 1GB of RAM <br><br>
-Details on how to install + Pace's Files and a more comprehensive description can be found here <br><br>
-
-Pace Lite (General): https://github.com/Katsugachi/Pace-Lite-1.0 <br><br>
-Pace Architex (Advanced & Coding): https://github.com/Katsugachi/Pace-1.0-Architex <br> <br>
-Pace Mini (FAST & Easy): https://github.com/Katsugachi/Pace-Mini<br>
-
-#### Pace Lite vs Architex vs Mini
-Pace Lite is smart and has internet access while still being a local model, it does not try to rewrite its own code and is the stable, recommended model. Architex specialises in coding and has the same general capabilities as Pace Lite. Pace Mini is substantially dumber but writes almost instantly, is 4x smaller, has no GUI and is super easy to setup.
 
 ### ZenLit o2
 Second version of a javascript engine with **~3650** ELO <br><br>
