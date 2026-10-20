@@ -123,5 +123,5 @@ luminescence skill link: https://github.com/Katsugachi/Luminescence
 </div>
 
 <p align="center">
-  <img src="assets/rainforest-falls-mist.gif" alt="Rainforest Falls Mist, animated ASCII art" width="720">
+  <img src="assets/rainforest-falls-mists.gif" alt="Rainforest Falls Mist, animated ASCII art" width="720">
 </p>
