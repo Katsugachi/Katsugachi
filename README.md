@@ -75,13 +75,6 @@ Highly efficient easy to use cramming tool<br><br>
 <br><br>
 [![Web Version](https://img.shields.io/badge/Web%20Version-XiM%20Material-7a3df0?style=for-the-badge&logo=googlechrome&logoColor=white)](https://katsugachi.github.io/XiM-Cram-Material/)
 
-### Scramjet
-Anticensorship internet tool<br><br>
-[https://github.com/Katsugachi/Scramjet-Web](https://github.com/Katsugachi/Scramjet-Web) <br><br>
-[![Launch](https://img.shields.io/badge/Launch-Scramjet%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Scramjet-Web/)<br><br>
-[![Download](https://img.shields.io/badge/Download%20Scramjet%20%E2%86%92-orange?style=for-the-badge)](https://github.com/Katsugachi/Scramjet-Web/releases/download/scramjet/Scramjet.html)
-<br><br>
-
 ### Connect4 JS
 Javascript connect 4 engine. <br><br>
 [https://github.com/Katsugachi/Connect4-JS](https://github.com/Katsugachi/Connect4-JS) <br><br>
