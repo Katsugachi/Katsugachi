@@ -47,6 +47,12 @@ An advanced offline music player with a clean UX and UI for easy importing and a
 <br><br>
 [![Launch Spooftify v2.4.1 (Mobile)](https://img.shields.io/badge/Launch-Spooftify%20v2.4.1%20(Mobile)-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://katsugachi.github.io/Spooftify-V4/)
 
+### doodle.mail
+A serverless doodle styled gmail app <br><br>
+[https://github.com/Katsugachi/doodle.mail](https://github.com/Katsugachi/doodle.mail)<br><br>
+[![Launch](https://img.shields.io/badge/Launch%20doodle.mail%20%E2%86%92-navy?style=for-the-badge)](https://katsugachi.github.io/doodle.mail)
+
+
 ### ZenLit o2
 Second version of a javascript engine with **~3650** ELO <br><br>
 [https://github.com/Katsugachi/ZenLit-o2](https://github.com/Katsugachi/ZenLit-o2)<br><br>
