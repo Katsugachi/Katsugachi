@@ -33,10 +33,16 @@
 An original gaming site with full games and a steam-like UI<br><br>
 [https://github.com/Katsugachi/Solus-MS](https://github.com/Katsugachi/Solus-MS)<br><br>
 [![Launch](https://img.shields.io/badge/Launch-Solus%20MS%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/Solus-MS/)
-### Contomo (IMO Best Project)
+### Contomo
 A ranked and highly comprehensive but simple pomodoro timer.<br><br>
 https://github.com/Katsugachi/Contomo<br><br>
 [![Launch](https://img.shields.io/badge/Launch-Contomo%20%E2%86%92-green?style=for-the-badge)](https://katsugachi.github.io/Contomo/)
+
+### doodle.mail
+A serverless doodle styled gmail app <br><br>
+[https://github.com/Katsugachi/doodle.mail](https://github.com/Katsugachi/doodle.mail)<br><br>
+[![Launch](https://img.shields.io/badge/Launch%20doodle.mail%20%E2%86%92-navy?style=for-the-badge)](https://katsugachi.github.io/doodle.mail)
+
 ### Spooftify 
 An advanced offline music player with a clean UX and UI for easy importing and accessing to high quality music.<br><br>
 [https://github.com/Katsugachi/Spooftify-V4](https://github.com/Katsugachi/Spooftify-V4/tree/main)<br><br>
@@ -44,10 +50,6 @@ An advanced offline music player with a clean UX and UI for easy importing and a
 <br><br>
 [![Launch Spooftify v2.4.1 (Mobile)](https://img.shields.io/badge/Launch-Spooftify%20v2.4.1%20(Mobile)-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://katsugachi.github.io/Spooftify-V4/)
 
-### doodle.mail
-A serverless doodle styled gmail app <br><br>
-[https://github.com/Katsugachi/doodle.mail](https://github.com/Katsugachi/doodle.mail)<br><br>
-[![Launch](https://img.shields.io/badge/Launch%20doodle.mail%20%E2%86%92-navy?style=for-the-badge)](https://katsugachi.github.io/doodle.mail)
 
 
 ### ZenLit o2
