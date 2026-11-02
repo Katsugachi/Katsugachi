@@ -49,8 +49,15 @@ An advanced offline music player with a clean UX and UI for easy importing and a
 [![Download](https://img.shields.io/badge/Spooftify%20v4.2.1%20%E2%86%92-orange?style=for-the-badge)](https://github.com/Katsugachi/Spooftify-V4/releases/download/Spooftify/Spooftify.V4.2.1.html)
 <br><br>
 [![Launch Spooftify v2.4.1 (Mobile)](https://img.shields.io/badge/Launch-Spooftify%20v2.4.1%20(Mobile)-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://katsugachi.github.io/Spooftify-V4/)
+<br><br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Katsugachi/Cordial/main/assets/brand/cordial-icon.svg" width="64" alt="Cordial icon">
+</p>
 
-
+### Cordial
+My own local lightweight agent for LFM3 that can navigate the browser and do things for you in the background! <br><br>
+Source Code: [https://github.com/Katsugachi/Cordial](https://github.com/Katsugachi/Cordial)<br><br>
+Download Cordial: [https://katsugachi.github.io/Cordial/](https://katsugachi.github.io/Cordial/)<br><br>
 
 ### ZenLit o2
 Second version of a javascript engine with **~3650** ELO <br><br>
