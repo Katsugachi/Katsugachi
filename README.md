@@ -106,11 +106,7 @@ Access sentral faster and search in a small window. To do list added. Better tha
 Fictional betting currency. <br><br>
 [https://github.com/Katsugachi/AirDollars-TM](https://github.com/Katsugachi/AirDollars-TM)<br><br>
 [![Launch](https://img.shields.io/badge/Launch-Air%20Dollars%20%E2%86%92-blue?style=for-the-badge)](https://katsugachi.github.io/AirDollars-TM/)
-### Tempus Speed (WIP)
-Simple WebRTC Communications app<br>
-_Based On The Original Legacy Docscord (2025)_ <br><br>
-[https://github.com/Katsugachi/TempusSpeed](https://github.com/Katsugachi/TempusSpeed)<br><br>
-[![Launch Tempus Speed](https://img.shields.io/badge/Launch-Tempus%20Speed-1a5fa8?style=for-the-badge&logo=googlechat&logoColor=white)](https://bit.ly/tempus-speed)
+
 
 </div>
 
@@ -126,7 +122,3 @@ luminescence skill link: https://github.com/Katsugachi/Luminescence
 [![GitHub Streak](https://streak-stats.demolab.com?user=Katsugachi&theme=shadow-orange&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-<p align="center">
-  <img src="assets/rainforest-falls-mists.gif" alt="Rainforest Falls Mist, animated ASCII art" width="720">
-</p>
